@@ -1,0 +1,76 @@
+
+    body{
+        margin: 0;
+    }
+    .heading {
+    color: black;
+    font-size: 50px;
+    text-align: center;
+    margin-left: 450px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.nav-container {
+    height: 50px;
+    display: grid;
+    grid-template-columns: 65% 35%;
+    width: 100%;
+    background-color:#6C63FF;
+}
+
+.nav-section1 {
+    
+}
+
+.logo {
+    width: 40px;
+    height: 50px;
+	background-image: url('../assets/pic3.svg');
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: contain;    
+    padding-left: 50px;
+    padding-right: 30px;
+}
+
+.nav-section2 {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    color: whitesmoke;
+    text-decoration: whitesmoke;
+    font-weight: bold;
+    text-align: left;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.body-right-image {
+    width: 600px;
+    height: 600px;
+	background-image: url('../assets/Aboutus.svg');
+	background-repeat: no-repeat;
+	background-position: right;
+	background-size: contain;
+    margin-top: 90px; 
+}
+
+.page-body {
+    display: grid;
+    grid-template-columns: 50% 50%;
+}
+.body-left{
+    padding-top: 200px;
+    padding-left: 100px;
+    margin: 15px;
+    font-size: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.body-center {
+    padding-top: 200px;
+    padding-left: 100px;
+    margin: 15px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+footer {
+    color: grey;
+    font-size: 1rem;
+    text-align: 90rem;
+  }

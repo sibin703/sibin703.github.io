@@ -1,0 +1,85 @@
+body{
+    margin: 0;
+}
+.heading {
+color: black;
+font-size: 50px;
+text-align: center;
+margin-left: 450px;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.nav-container {
+height: 50px;
+display: grid;
+grid-template-columns: 65% 35%;
+width: 100%;
+background-color:#6C63FF;
+}
+
+.nav-section1 {
+
+}
+
+.logo {
+width: 40px;
+height: 50px;
+background-image: url('./assets/pic3.svg');
+background-repeat: no-repeat;
+background-position: center;
+background-size: contain;    
+padding-left: 50px;
+padding-right: 30px;
+}
+
+.nav-section2 {
+display: grid;
+grid-template-columns: 1fr 1fr 1fr 1fr;
+color: whitesmoke;
+text-decoration: whitesmoke;
+font-weight: bold;
+text-align: left;
+}
+
+/* Example styles for Grilled Lemon Herb Chicken  */
+
+/* Style for h1 tag */
+h1 {
+    color: #6C63FF;
+    font-size: 2.5rem;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  }
+  
+  /* Style for h2 tag */
+  h2 {
+    color: #6C63FF;
+    font-size: 1.5rem;
+    margin-top: 2rem;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  }
+/* Style for ul tag */
+ul {
+    color: black;
+    font-size: 1.2rem;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  }
+  
+  /* Style for ol tag */
+  ol {
+    color: black;
+    font-size: 1.2rem;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  }
+  /* Style for p tag */
+p {
+    color: black;
+    font-size: 1.2rem;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  }
+  
+  /* Style for footer tag */
+  footer {
+    color: grey;
+    font-size: 1rem;
+    text-align: center;
+  }

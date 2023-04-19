@@ -1,0 +1,100 @@
+
+
+    body{
+        margin: 0;
+    }
+
+.heading {
+    color: black;
+    font-size: 50px;
+    text-align: center;
+    margin-left: 450px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.nav-container {
+    height: 50px;
+    display: grid;
+    grid-template-columns: 65% 35%;
+    width: 100%;
+    background-color:#6C63FF;
+}
+
+.nav-section1 {
+    
+}
+
+.logo {
+    width: 40px;
+    height: 50px;
+	background-image: url('../assets/pic3.svg');
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: contain;    
+    padding-left: 50px;
+    padding-right: 30px;
+}
+
+.nav-section2 {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    color: whitesmoke;
+    text-decoration: whitesmoke;
+    font-weight: bold;
+    text-align: left;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.nav-section2 p{
+    color: white;
+}
+.body-right-image {
+    width: 600px;
+    height: 600px;
+	background-image: url('../assets/Contactus.svg');
+	background-repeat: no-repeat;
+	background-position: right;
+	background-size: contain; 
+}
+
+.page-body {
+    display: grid;
+    grid-template-columns: 50% 50%;
+}
+
+.body-left {
+    padding-top: 200px;
+    padding-left: 100px;
+    margin: 15px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#name {
+    margin-left: 20px;
+    border-radius: 8px;
+    border-color: black;
+}
+
+#email {
+    margin-left: 20px;
+    border-radius: 8px;
+    border-color: black;
+}
+
+#message {
+    margin-left: 2px;
+    border-radius: 8px;
+    border-color: black;
+}
+
+.Send {
+    width: 100px;
+    height: 35px;
+    background-color: #6C63FF;
+    border: none;
+    color: #fff;
+    border-radius: 8px;
+}
+footer {
+    color: grey;
+    font-size: 1rem;
+    text-align: 90rem;
+  }
