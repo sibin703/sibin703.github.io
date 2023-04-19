@@ -24,7 +24,7 @@ body{
   .logo {
   width: 40px;
   height: 50px;
-  background-image: url('./assets/pic3.svg');
+  background-image: url('./pic3.svg');
   background-repeat: no-repeat;
   background-position: center;
   background-size: contain;    
@@ -44,7 +44,7 @@ body{
   .body-right-image {
     width: 600px;
     height: 600px;
-  background-image: url('../assets/Cycling.svg');
+  background-image: url('./Cycling.svg');
   background-repeat: no-repeat;
   background-position: right;
   background-size: contain;

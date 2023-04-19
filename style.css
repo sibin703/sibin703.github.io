@@ -14,7 +14,7 @@ body{
 .logo {
     width: 40px;
     height: 50px;
-	background-image: url('../assets/pic3.svg');
+	background-image: url('./pic3.svg');
 	background-repeat: no-repeat;
 	background-position: center;
 	background-size: contain;    
@@ -34,7 +34,7 @@ body{
 .nav-section2 .user{
     width: 40px;
     height: 50px;
-    background-image: url('../assets/Profile\ photo.svg');
+    background-image: url('./Profile photo.svg');
     background-repeat: no-repeat;
     background-position: center;
     background-size: contain;
@@ -65,7 +65,7 @@ body{
 .body-right-image {
     width: 600px;
     height: 600px;
-	background-image: url('../assets/pic2.svg');
+	background-image: url('./pic2.svg');
 	background-repeat: no-repeat;
 	background-position: center;
 	background-size: contain;    
@@ -111,7 +111,7 @@ body{
 .box1-img {
     width: 100%;
     height: 90px;
-	background-image: url('../assets/Recipes.svg');
+	background-image: url('./Recipes.svg');
 	background-repeat: no-repeat;
 	background-position: center;
 	background-size: contain;      
@@ -120,7 +120,7 @@ body{
 .box2-img {
     width: 100%;
     height: 90px;
-	background-image: url('../assets/Meal\ planning.svg');
+	background-image: url('./Mealplanning.svg');
 	background-repeat: no-repeat;
 	background-position: center;
 	background-size: contain;      
@@ -129,7 +129,7 @@ body{
 .box3-img {
     width: 100%;
     height: 90px;
-	background-image: url('../assets/Nutrition\ tips.svg');
+	background-image: url('./Nutrition tips.svg');
 	background-repeat: no-repeat;
 	background-position: center;
 	background-size: contain;      
@@ -176,7 +176,7 @@ body{
 .box4-img {
     width: 100%;
     height: 90px;
-	background-image: url('../assets/workout.svg');
+	background-image: url('./workout.svg');
 	background-repeat: no-repeat;
 	background-position: center;
 	background-size: contain;      
@@ -185,7 +185,7 @@ body{
 .box5-img {
     width: 100%;
     height: 90px;
-	background-image: url('../assets/Yoga.svg');
+	background-image: url('./Yoga.svg');
 	background-repeat: no-repeat;
 	background-position: center;
 	background-size: contain;      
@@ -194,7 +194,7 @@ body{
 .box6-img {
     width: 100%;
     height: 100px;
-	background-image: url('../assets/Running.svg'); 
+	background-image: url('./Running.svg'); 
 	background-repeat: no-repeat;
 	background-position: center;
 	background-size: contain;      
